@@ -1,1 +1,1 @@
-# Questão mais importante para resolução em prova, utilizando fluxograma também.
+# Questão mais importante para resolução em prova.
